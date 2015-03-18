@@ -25,7 +25,8 @@ shinyUI(fluidPage(
            "cross-validation and on developing a more accurate model in the future.  The GLM is a vanilla binomial model",
            "on time, field position, score difference, down and distance, and as such doesn't completely capture ",
            "what we suspect should be true - i.e. Seattle was at least 90% likely to score and win in the setup state. ",
-           "I provide this model only because it sufficiently addresses the assignment!  Thanks for trying it!"
+           "I provide this model only because it sufficiently addresses the assignment.  Thanks for trying it!"),
+        h5("The Git with the code is at https://github.com/TopQuirk67/DataProductsProjectShiny ."
         ),
         
         
